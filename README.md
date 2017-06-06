@@ -26,6 +26,7 @@ You can send this email to every group at once, if you'd like — though it'd pr
 
 Groups are in alphabetical order. Want to add your group? [Here's how!](#please-add-your-group)
 
+- Austin Hispanic Hackers: [site](http://www.hispanichackers.com/) · [contact](http://www.hispanichackers.com/contact-page/)
 - Black Girls Code: [site](http://www.blackgirlscode.com/) · [contact](http://www.blackgirlscode.com/contact-us.html)
 - ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
 - Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
