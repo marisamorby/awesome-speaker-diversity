@@ -29,6 +29,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 - Black Girls Code: [site](http://www.blackgirlscode.com/) · [contact](http://www.blackgirlscode.com/contact-us.html)
 - ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
 - Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
+- Latina Girls Code: [site](http://www.latinagirlscode.org/) · [contact](http://www.latinagirlscode.org/about/)
 - Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
 - Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
 - Trans\*H4CK: [site](http://transhack.org) · [email](mailto:hello@transhack.org)
